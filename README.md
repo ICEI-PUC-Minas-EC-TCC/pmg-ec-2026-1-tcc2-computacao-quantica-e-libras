@@ -63,7 +63,7 @@ para a classificação de sinais estáticos da datilologia de Libras.
 - **QNN Híbrida**
 - **QSVC com kernel Quântico**
 - **PegasosQSVC**
-- 
+  
 ## Conjunto de Dados e Código
 
 - Os dados de features geométricas processadas estão em `Dataset/features_geometry_70.csv`.
