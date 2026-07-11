@@ -9,7 +9,7 @@
 - Nome: Pedro Henrique de Almeida Santos
 - Nome: Rafael Felipe Silva Pereira
 
-**Orientadores (2):**
+**Orientadores:**
 - Orientador: Felipe Augusto Lara Soares
 - Co-orientador: André Tanus Cesário de Souza
 
