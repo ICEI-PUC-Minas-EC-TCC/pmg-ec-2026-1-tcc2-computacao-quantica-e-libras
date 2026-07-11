@@ -1,6 +1,6 @@
 # Reconhecimento de Sinais Estáticos da Datilologia de Libras
 
-**Curso:** Engenharia da Computação — PUC Minas
+**Curso:** Engenharia da Computação - PUC Minas
 
 **Autores:**
 - Nome: Iander Marques Pereira Costa
